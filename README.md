@@ -75,14 +75,9 @@ For Each ws In Worksheets
         
 End If
 
-    
-
 Next i
-    
-
 
 Next ws
-
 
 End Sub
 
